@@ -1,9 +1,6 @@
 <h3>Hey, I'm Chad Lew! 👋</h3>
 <p>
 Welcome to my GitHub profile! I'm a Full Stack Web Developer and a graduate from the University of California, Irvine's (UCI) Coding Bootcamp. My journey into web development has been a fulfilling exploration of learning, creating, and constantly pushing boundaries.
-
-Ever since I fell in love with coding, every project I've embarked upon has marked a step forward in my adventure in the world of web development. I genuinely enjoy the challenge of turning innovative ideas into functional and intuitive experiences on the web. Pretty cool you've found your way to my corner of GitHub; I invite you to explore the work I've done and join me on this journey of continuous growth and discovery.
-
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chad-l-7586711a0/)
