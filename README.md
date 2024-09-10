@@ -1,11 +1,9 @@
 <h3>Hey, I'm Chad Lew! 👋</h3>
 <p>
-Welcome to my GitHub profile! I'm a Full Stack Web Developer and a graduate from the University of California, Irvine's (UCI) Coding Bootcamp. My journey into web development has been a fulfilling exploration of learning, creating, and constantly pushing boundaries.
+Welcome to my GitHub profile!
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chad-l-7586711a0/)
-
-<h3>🔥 Applied Technologies 🏆</h3>
+<h3>Applied Technologies</h3>
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
